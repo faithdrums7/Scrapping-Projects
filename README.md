@@ -1,7 +1,7 @@
 # First Data Science Projects - Web Scrapping
 
-This is my first repository.
-This repository is filled with codes that i made which uses scrapping technique for the data acquisition and then made a program out of that data
+This repository is filled with some of the tasks given at Purwadhika School.
+This repository is filled with programs that i made which uses scrapping technique for the Data Acquisition
 
 1. Ultraman (source: http://www.scifijapan.com/articles/2015/10/04/bandai-ultraman-ultra-500-figure-list/)
 The first one is scrapping data from a website that shows information about ultraman figures.
